@@ -1,0 +1,241 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.father {
+    width: 794px;
+    height: 1123px;
+    background-color: aquamarine;
+    display: flex;
+}
+
+.circle {
+    height: 1123px;
+    width: 40px;
+
+}
+
+.header {
+    width: 754px;
+    height: 120px;
+
+    display: flex;
+
+}
+
+.header p {
+    margin: 60px 0px 0px 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+
+
+
+}
+
+.right {
+    display: flex;
+    flex-direction: column;
+    height: 1123px;
+    width: 754px;
+
+}
+
+.main_border {
+    height: 953px;
+    width: 702px;
+
+    border: 2px solid black;
+    box-sizing: border-box;
+    display: flex;
+}
+
+.three {
+    height: 953px;
+    width: 234px;
+
+
+}
+
+.one {
+    height: 953px;
+    width: 234px;
+
+
+}
+
+.two {
+    height: 953px;
+    width: 234px;
+
+
+}
+
+.top_first {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+
+    height: 45px;
+    width: 100%;
+
+    border: 2px solid black;
+}
+
+.top_second img {
+    margin: 5px 0px 0px 9px;
+}
+
+.top_second {
+    width: 100%;
+    height: 90px;
+
+    border: 1px solid black;
+
+
+}
+
+.top_second_part {
+    width: 100%;
+    height: 290px;
+
+    border: 2px solid black;
+}
+
+.top_second_part img {
+    margin: 5px 0px 0px 9px;
+}
+
+.top_second p {
+    margin: 5px 0px 0px 9px;
+
+}
+
+.chores1 {
+    height: 30px;
+    width: 60%;
+
+    display: flex;
+
+}
+
+.chores2 {
+    height: 30px;
+    width: 40%;
+
+    display: flex;
+
+}
+
+.chores3 {
+    height: 30px;
+    width: 50%;
+
+    display: flex;
+
+}
+
+.chores4 {
+    height: 30px;
+    width: 50%;
+
+    display: flex;
+
+}
+
+.chores_father {
+    display: flex;
+    flex-direction: column;
+}
+
+.chores_parent {
+    display: flex;
+    flex-direction: row;
+}
+
+.CENTER2 {
+    height: 90px;
+    width: 100%;
+
+    border: 0.0001px solid black;
+
+}
+
+.CENTER2 img {
+    margin: 5px 0px 0px 9px;
+}
+
+.CENTER3 {
+    height: 154px;
+    width: 100%;
+
+    border: 1px solid black;
+}
+
+.CENTER4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+
+    height: 46px;
+    width: 100%;
+
+    border: 2px solid black;
+}
+
+.bld {
+    width: 33.33%;
+    height: 100%;
+
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.bld p {
+    margin-top: 10px;
+}
+
+.CENTERbld {
+    height: 90px;
+    width: 100%;
+
+    border: 1px solid black;
+    display: flex;
+
+}
+
+.CENTER_MAIL {
+    width: 100%;
+    height: 291px;
+    border: 1px solid black;
+
+
+
+
+}
+
+.appoints {
+    width: 100%;
+    height: 90px;
+    border: 1px solid black;
+
+
+
+
+}
+
+.random {
+    width: 100%;
+    height: 302px;
+    border: 1px solid black;
+
+}
